@@ -54,10 +54,10 @@ Your terminal will now include an `(env)` prefix, indicating a successful activa
 
 ```shell
 # On Windows:
-(env) drive:\folder\...spacefarer>
+(env) drive:\folder\...hitchhikers-guide-to-the-quantum-realm>
 
 # On MacOS and Linux
-(env) user@computer:~/...spacefarer$
+(env) user@computer:~/...hitchhikers-guide-to-the-quantum-realm$
 ```
 
 To deactivate the virtual environment (and remove the `(env)` prefix):
