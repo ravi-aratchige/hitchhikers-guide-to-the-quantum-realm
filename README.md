@@ -1,4 +1,4 @@
-# Hitchhiker's Guide to the Quantum Realm
+# Hitchhiker's Guide to the Quantum Realm ⚛
 
 My field notes on quantum computing with IBM's Qiskit...
 
